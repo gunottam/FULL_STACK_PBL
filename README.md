@@ -1,17 +1,3 @@
-Your content is strong.
-
-But the Markdown formatting is broken in multiple places:
-
-* Sections are merged.
-* Code blocks are not properly fenced.
-* Headings are not separated.
-* SQL and Python blocks are bleeding into each other.
-* Indentation is inconsistent.
-
-Below is the **clean, properly structured, submission-ready `.md` version**.
-
-You can copy-paste this directly into GitHub, Notion, or submission PDF.
-
 ---
 
 # 🎓 Smart Academic Companion: Intelligent Tutoring System (ITS)
@@ -286,11 +272,3 @@ It transforms an LMS into a **true Intelligent Tutoring System**.
 
 ---
 
-If you want, I can now:
-
-* Convert this into IEEE paper format
-* Turn this into a PPT-ready version
-* Create a simplified teacher-friendly version
-* Or brutally stress-test this concept like a thesis defense panel
-
-Your move.
